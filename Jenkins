@@ -1,0 +1,5 @@
+Stages{
+    Stage("Build"){
+        Sh "Build.sh"
+    }
+}
